@@ -1,0 +1,97 @@
+﻿  stdafx.cpp
+c:\winapi\api예제들\달리기겜\windowapi\image.h(103): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\item.h(76): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camera.cpp
+c:\winapi\api예제들\달리기겜\windowapi\camera.cpp(36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+  gameScene.cpp
+  HPbar.cpp
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(35): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\hpbar.cpp(67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+c:\winapi\api예제들\달리기겜\windowapi\image.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\image.cpp(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\image.cpp(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\image.cpp(194): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  imageManager.cpp
+  iniData.cpp
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(37): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(56): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(84): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iniTestScene.cpp
+  input.cpp
+  item.cpp
+c:\winapi\api예제들\달리기겜\windowapi\item.cpp(44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\item.cpp(71): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\item.cpp(82): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\item.cpp(83): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\item.cpp(118): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  itemManager.cpp
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(120): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(125): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(172): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(192): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(226): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(238): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(250): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(262): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(273): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(292): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\itemmanager.cpp(304): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  mainGame.cpp
+  obstacle.cpp
+c:\winapi\api예제들\달리기겜\windowapi\obstacle.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\obstacle.cpp(66): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\obstacle.cpp(72): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\obstacle.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\obstacle.cpp(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  player.cpp
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(20): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(21): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(49): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(226): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(235): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(280): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\winapi\api예제들\달리기겜\windowapi\player.cpp(362): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  playerData.cpp
+  random.cpp
+  sceneManager.cpp
+  soundManager.cpp
+  soundTestScene.cpp
+  startScene.cpp
+  코드를 생성하고 있습니다...
+c:\winapi\api예제들\달리기겜\windowapi\inidata.cpp(62): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  util.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+  WindowAPI.vcxproj -> C:\winapi\API예제들\달리기겜\WindowAPI\Debug\GameFramework2D.exe
